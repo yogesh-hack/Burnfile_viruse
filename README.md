@@ -19,9 +19,8 @@ Its delete only user files not windows or linux files.
 ## Installation
 
 To run this viruse, install it locally:
-'''
-git clone https://github.com/yogesh-hack/Burnfile_viruse.git
-'''
+
+'''git clone https://github.com/yogesh-hack/Burnfile_viruse.git'''
 
 <!-- ## Table of contents
 * [General info](#general-info)
