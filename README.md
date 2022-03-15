@@ -38,20 +38,21 @@ c:\python27\python.exe -m pip install -r requirement.txt
 ```
 - Installation on Linux
 ```
-sudo pip install -r requirement.txt
+ $ sudo pip install -r requirement.txt
 ```
 
 **for coloring in windows install the following libraries**
 ```
 c:\python27\python.exe -m pip install win_unicode_console colorama
+c:\python27\python.exe -m pip install win_unicode_console termcolor
 ```
 **for coloring in Linux install the following libraries**
 ```
-sudo pip install colorama
+$ sudo pip install colorama
 ```
 and 
 ```
-sudo pip install termcolor
+$ sudo pip install termcolor
 ```
 
 <!-- ## Table of contents
