@@ -34,11 +34,11 @@ Burnfile_viruse depends on the `os` python modules.
 
 - Installation on Windows:
 ```
-c:\python27\python.exe -m pip install -r requirement.txt
+c:\python27\python.exe -m pip install os
 ```
 - Installation on Linux
 ```
- $ sudo pip install -r requirement.txt
+ $ sudo pip install os
 ```
 
 **for coloring in windows install the following libraries**
