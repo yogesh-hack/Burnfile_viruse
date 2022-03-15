@@ -15,13 +15,11 @@ Its delete only user files not windows or linux files.
 ## Screenshot
 ![Screenshot_20220315_095910](https://user-images.githubusercontent.com/83384315/158306682-b7115f69-0fdc-4cf9-9781-2a7b31a2884b.png)
 
-## Setup
-To run this project, install it locally using npm:
+## Installation
+To run this project, install it locally:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ git clone https://github.com/yogesh-hack/Burnfile_viruse.git
 ```
 <!-- ## Installation
 
