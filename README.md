@@ -5,8 +5,8 @@
 	| |_/ / |_| | |  | | | | |   | | |  __/ \ \_/ / | |  | |_| \__ \  __/
 	\____/ \__,_|_|  |_| |_\_|   |_|_|\___|  \___/|_|_|   \__,_|___/\___|
 
- 	♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨
-		BURNFILE VIRUSE MADE BY -> YOGESH BAGHEL(CEO)
+ ♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨️♨
+		BURNFILE VIRUSE MADE BY -> YOGESH BAGHEL
 	 
 ## About Burnfile_viruse
 BurnFile Viruse is a python tool viruse designed to delete the target user system files.
